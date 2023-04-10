@@ -154,8 +154,7 @@ Route::resource('resource-name', 'App\Http\Controllers\CustomFolder\ControllerNa
 ```
 
 
-### Structure of Model || Migration || Controller:
-
+### Structure of Function
 
 ```php
      public static function singleFileUpload($mainFile)
